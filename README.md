@@ -1,3 +1,4 @@
+
 cat <<EOL > README.md
 # e2zi
 
@@ -43,4 +44,7 @@ e2zi --help
 ## License
 This project is licensed under the MIT License.
 EOL
+
+# e2zi
+Interactive CLI tool for easy and safe file compression, with auto-confirm and smart file selection.
 
