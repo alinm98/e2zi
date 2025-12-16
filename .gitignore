@@ -1,0 +1,7 @@
+cat <<EOL > .gitignore
+*.xz
+*.tar
+*.swp
+*.log
+EOL
+
