@@ -15,7 +15,7 @@ cat <<EOL > README.md
 Clone the repository and install system-wide:
 
 \`\`\`bash
-git clone https://github.com/username/e2zi.git
+git clone https://github.com/alinm98/e2zi.git
 cd e2zi
 ./install.sh
 \`\`\`
